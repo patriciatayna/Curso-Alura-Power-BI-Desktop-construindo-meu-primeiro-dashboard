@@ -1,0 +1,2 @@
+link para acesso:
+https://app.powerbi.com/view?r=eyJrIjoiNWY3MzZjZjAtZjMzMS00MTJkLWE3OTAtZTlmZmUxYzNiMWNlIiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9&pageName=ReportSection
