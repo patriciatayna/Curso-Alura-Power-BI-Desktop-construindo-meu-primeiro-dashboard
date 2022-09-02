@@ -1,0 +1,2 @@
+link para acesso:
+https://app.powerbi.com/view?r=eyJrIjoiNzNjZTgxOTEtZmFjMy00ODZkLWJhNTItMGQ4MTJjMmFmYmU1IiwidCI6ImVjMzU5YmExLTYzMGItNGQyYi1iODMzLWM4ZTZkNDhmODA1OSJ9
